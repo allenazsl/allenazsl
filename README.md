@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**allenazsl/allenazsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alhena Sharliz from Sebelas Maret University, Welcome to my little corner of GitHub ✨  
 
-Here are some ideas to get you started:
+I'm someone who enjoys exploring data, creating visualizations, and turning messy information into meaningful insights. Currently learning more about statistics, R programming, and data analysis while trying to make every project look aesthetic too 🌼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Data Visualization with R
+- Statistical Analysis
+- Database & SQL
+- R Markdown & GitHub Pages
+
+### 💻 Things I Like
+- Clean and aesthetic reports
+- Yellow-themed designs ✨
+- Exploring patterns through data
+- Mixing creativity with analysis
+
+### 📊 Recent Interests
+- Regression Analysis
+- Data Storytelling
+- Interactive Visualizations
+- Academic Projects
+
+### ⚡ Fun Fact
+I believe data can tell stories — you just need the right visualization to hear them.
+
+---
+⭐ Thanks for visiting my profile!
